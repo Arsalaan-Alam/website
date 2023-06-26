@@ -51,78 +51,78 @@ export default [
     {
         time: 'Nov, 2021',
         title: 'Nasa Space Apps Challenge',
-        link: 'the beginning',
+        link: 'https://2021.spaceappschallenge.org/challenges/statements/seeing-the-unseeable-viewing-bugs-from-space/teams/ommatdium/project',
         details:
             "I was declared as a finalist & honorable mention for my project Ommatdium, which is a ML based app that will help farmers identify harmful bugs for their crops and also suggests them specific pesticides.",
     },
     {
         time: 'Oct, 2021',
         title: 'Hyper Hacks',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/aquastreet',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won first place for my project Aquastreet, which is a A machine learning-based hardware device cum mobile application to detect fishes and other aqua diversity by converting their vocals into an MEL frequency.",
     },
     {
         time: 'Oct, 2021',
         title: 'Opportunity Hacks',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/placeholder-5xkmbv',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won third place for my project CAD-TOD which was a new frontend solution that brought in more tangible and organic donations for a non-profit. Through this project, I later got a paid-internship at PayPal.",
     },
     {
         time: 'Sept, 2021',
-        title: 'Hop Hacks',
-        link: 'the beginning',
+        title: 'HopHacks',
+        link: 'https://devpost.com/software/finforge',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won the best financial hack track prize for my project FinForge which is a ML powered full fraud mitigation and prevention datahub capable of reducing the risk of you getting scammed drastically.",
     },
     {
         time: 'Sept, 2021',
         title: 'Pennapps',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/spotzoo',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won fourth place for my project SpotZoo which is a community-driven mobile application that leverages the cutting-edge power of ML & allows to crowdsource real-time information on animal encounters.",
     },
     {
         time: 'Aug, 2021',
         title: 'Massey Hacks',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/pose-it',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won first place for my project called as Avastha which was a covid inspired AI powered application where friends could get together in a call for an excersing competition which would be judged by AI.",
     },
     {
         time: 'July, 2021',
         title: 'Teen Hacks LI',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/visme-bx2evq',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won second place for my project called as VisMe which was an app that informs users, makes them more involved in society by the help of these features: realtime news, petitions, debate-rooms & a fake news detector.",
     },
     {
         time: 'June, 2021',
         title: 'Los Altos Hacks V',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/fauna-xlnfqg',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won second place for my project called as Fauna which was the older version of SpotZoo, Fauna is an application which used Crowdsourcing to stop animal attacks. The difference is that it had no AI involved.",
     },
     {
         time: 'April, 2021',
         title: 'Alpha Hacks',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/design-space',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won the AR track prize for my project Design Space which is an AR-powered web application that allows you to view different furniture and decorative products in augmented reality and try them out in real life.",
     },
     {
         time: 'March, 2021',
         title: 'Merge Hackathon',
-        link: 'the beginning',
+        link: 'https://devpost.com/software/light-house-mk3ehu',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I won first place for my project Light House which is an NLP based web application that helps user combat data and privacy infringement. The main feature was the summarization of long T&Cs and flagging of sus statements. ",
     },
     {
         time: 'Jan, 2021',
         title: 'Hack Violet',
         link: 'the beginning',
         details:
-            "Wrote my first line of HTML at School. I was in 6th grade",
+            "I wwas declared a finalist for my project Chefess which was a food-sale web-application designed specifically for female homemakers who have a knack for cooking. This was my first ever hackathon project lol. ",
     },
  ]
