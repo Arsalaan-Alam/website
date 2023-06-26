@@ -7,12 +7,12 @@ function Timeline(){
     return (
         <div className='flex flex-col md:flex-row justify-center my-20'>
          <div className='w-full md:w-7/12'>
-         <Title>Winning List</Title>
+         <Title>Victory List ✌️</Title>
             {hackathons.map(item => (
                 <HackathonItem
-                year = {item.year}
+                time = {item.time}
                 title = {item.title}
-                duration = {item.duration}
+                link = {item.link}
                 details= {item.details}                
                 />
             ))}
