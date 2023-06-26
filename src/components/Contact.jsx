@@ -23,7 +23,7 @@ function Contact(){
                     />
                     <textarea name="message" placeholder="Message" rows="10" className='mb-4 p-2 bg-transpart border-2 rounded-md focus:outline-none'></textarea>
                     <button type='button' className='text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md'>
-                        Work With Me
+                        Send!
                     </button>
                 </form>
 
