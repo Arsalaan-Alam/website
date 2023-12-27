@@ -1,5 +1,12 @@
 export default [
     {
+        time: 'October, 2023',
+        title: 'Privacy4Web3 Hackathon',
+        link: 'https://devpost.com/software/dmedico',
+        details: 
+           'I won the Tutorials & Standards track for my project DSearch which is a Private, Decentralized & Distributed Search Engine built on the Oasis Privacy Layer & Sapphire. This also inspired DApilink.',
+     },
+    {
        time: 'June, 2023',
        title: 'FVM Dataverse Hack',
        link: 'https://devpost.com/software/dmedico',
