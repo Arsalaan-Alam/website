@@ -2,7 +2,7 @@ export default [
    {
       title: 'DSearch',
       imgUrl: 'https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/610/597/datas/medium.png',
-      stack: ['TypeScript', 'React', 'Sapphire', 'Solidity', 'Blockchain', 'OPL'],
+      stack: ['Solidity', 'TypeScript', 'React', 'Sapphire', 'Blockchain', 'OPL'],
       link: 'https://devpost.com/software/dsearch',
     },   
    {
